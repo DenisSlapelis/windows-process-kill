@@ -1,0 +1,16 @@
+{
+  "name": "windows-process-kill",
+  "version": "1.0.0",
+  "description": "Kills a Windows process by name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Wollt",
+  "license": "ISC",
+  "dependencies": {
+    "wintools": "^0.1.0"
+  }
+}
